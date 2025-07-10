@@ -1,6 +1,6 @@
 # 🏦 Simple Bank Account System - Python
 
-A beginner-friendly **bank account system** implemented in Python using Object-Oriented Programming (OOP) principles. The system allows users to deposit, withdraw, and check their balance using a simple command-line interface.
+A beginner-friendly **bank account system** implemented in Python using Object-Oriented Programming (OOP) principles. The system allows users to deposit, withdraw and check their balance using a simple command-line interface.
 
 ---
 
@@ -23,6 +23,7 @@ A beginner-friendly **bank account system** implemented in Python using Object-O
 - ✅ Input/output operations  
 
 ---
+
 🧪 Sample Interaction: 
 
 ```
@@ -34,7 +35,9 @@ Choose an option:
 
 Enter your choice (1-4):
 ```
+
 ---
+
 ## 💼 Connect with Me
 
 <a href="https://www.linkedin.com/in/manthanterse/">
